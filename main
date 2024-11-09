@@ -1,0 +1,13 @@
+-- Main functionality script for whitelisted users
+print("Executing main script for whitelisted user.")
+
+-- Place your main loadstring scripts here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/headsitfixedbyZ/refs/heads/main/fixed"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/crib/refs/heads/main/thehouse"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/getupZ/refs/heads/main/z"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/reverseZ/refs/heads/main/ZisSoFIne"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/antibangZ/refs/heads/main/z"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/GETDOWNZ/refs/heads/main/AHH"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/ZgoesInvisible/refs/heads/main/Yeah!IFix"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzcoder2/sigma2/main/updatedbyz"))()
